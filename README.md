@@ -1,5 +1,5 @@
 # whoami.nix
-
+```nix
 { ... }:
 {
 name = "Oliver Hagenauer";
@@ -26,3 +26,4 @@ contributions = {
 
 website = "https://oliverhagenauer.info";
 }
+```
